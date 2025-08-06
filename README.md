@@ -1,4 +1,4 @@
-# Chronicler Monorepo
+# Chronicler Monorepo (Mackenzie Solution)
 
 This monorepo contains both the frontend and backend applications for the Chronicler project, managed with [npm workspaces](https://docs.npmjs.com/cli/v9/using-npm/workspaces).
 
