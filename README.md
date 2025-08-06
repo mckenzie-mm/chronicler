@@ -45,6 +45,8 @@ Time did not permit the writing of jest test code, so screenshots of the running
 
 The solution uses both server side and client side validation and error messages.
 
+It was not clear whether the sorted data or the unsorted data should be displayed or no data at all. I displayed the unsorted data in two lists.
+
 #### Test 1: input data as given in the readme
 
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/1.png)<kbd>
