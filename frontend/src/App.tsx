@@ -1,16 +1,14 @@
-import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Form from './Form';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Chronicler</h1>
-      <header className="App-header">
-        <p>
-          Hello world!
-        </p>
-      </header>
+    <div className="app">
+      <div className='app-wrapper'>
+        <h1>Chronicler</h1>
+        <p className='introduction'>App for calculating the distance between points.</p>
+        <Form />
+      </div>
     </div>
   );
 }
