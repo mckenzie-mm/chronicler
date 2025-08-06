@@ -41,13 +41,27 @@ npm run backend:test
 
 Feel free to expand this README as your project grows! 
 
+Time did not permit the writing of jest test code, so screenshots of the running app with different test cases are shown below. 
+
+The solution uses both server side and client side validation and error messages
+
+#### Test 1: input data as given in the readme
+
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/1.png)<kbd>
+
+#### Test 2: no input data entered (client side validation error)
 
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/2.png)<kbd>
 
+#### Test 3: input data as given in the readme but with invalid character (client side validation error)
+
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/3.png)<kbd>
 
+#### Test 4: input data as given in the readme but with lists of unequal length (server side error)
+
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/4.png)<kbd>
+
+#### Test 5: input data as given in the readme but with floating number format (a validation error that has not been fixzed. This case is a todo in the app)
 
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/5.png)<kbd>
 
