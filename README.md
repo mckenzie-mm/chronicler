@@ -39,11 +39,11 @@ npm run backend:test
 
 ---
 
-Feel free to expand this README as your project grows! 
+## My Solution to this problem is given below.
 
 Time did not permit the writing of jest test code, so screenshots of the running app with different test cases are shown below. 
 
-The solution uses both server side and client side validation and error messages
+The solution uses both server side and client side validation and error messages.
 
 #### Test 1: input data as given in the readme
 
