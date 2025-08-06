@@ -61,7 +61,7 @@ The solution uses both server side and client side validation and error messages
 
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/4.png)<kbd>
 
-#### Test 5: input data as given in the readme but with floating number format (a validation error that has not been fixzed. This case is a todo in the app)
+#### Test 5: input data as given in the readme but with floating number format (a validation error that has not been fixed yet. This case is a todo in the app)
 
 <kbd>![alt text](https://github.com/mckenzie-mm/chronicler/blob/main/test-images/5.png)<kbd>
 
