@@ -40,3 +40,16 @@ npm run backend:test
 ---
 
 Feel free to expand this README as your project grows! 
+
+<kbd>![alt text](https://https://github.com/mckenzie-mm/chronicler/blob/main/test-images/1.png)<kbd>
+
+<kbd>![alt text](https://https://github.com/mckenzie-mm/chronicler/blob/main/test-images/2.png)<kbd>
+
+<kbd>![alt text](https://https://github.com/mckenzie-mm/chronicler/blob/main/test-images/3.png)<kbd>
+
+<kbd>![alt text](https://https://github.com/mckenzie-mm/chronicler/blob/main/test-images/4.png)<kbd>
+
+<kbd>![alt text](https://https://github.com/mckenzie-mm/chronicler/blob/main/test-images/5.png)<kbd>
+
+
+
